@@ -11,7 +11,7 @@ import { fileURLToPath, pathToFileURL } from 'url'
 
 global.owner = [
 ['524531287294', 'CuriosityBot-MD 🍧', true], 
-['5492266466080', 'Owner 🍧', true], 
+['595992809980', 'Owner 🍧', true], 
 ['5217294888993'], 
 ['00'], 
 ['5214531287294'], 
