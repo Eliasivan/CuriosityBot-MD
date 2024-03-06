@@ -3,7 +3,7 @@ var handler  = async (m, { conn }) => {
 let texto = `🚩 *Instalación de CuriosityBot*
 
 *Requisitos para la instalación*
-⬡ Dudas: wa.me/5217294888993
+⬡ Dudas: wa.me/595972157130
 ⬡ Tutoríal: https://youtu.be/qRb9ElGT8mM
 ⬡ 1 GB de almacenamiento
 ⬡ Termux: https://www.mediafire.com/file/3hsvi3xkpq3a64o/termux_118.apk/file
