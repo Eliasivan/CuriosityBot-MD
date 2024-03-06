@@ -10,8 +10,8 @@ import chalk from 'chalk'
 import { fileURLToPath, pathToFileURL } from 'url'
 
 global.owner = [
-['595972157130', 'CuriosityBot-MD 🍧', true], 
-['593939005387', 'Owner 🍧', true], 
+['595972157130', 'Lobito-MD 🍧', true], 
+['593939005387', 'Creador 🍧', true], 
 ['5217294888993'], 
 ['00'], 
 ['5214531287294'], 
@@ -27,7 +27,7 @@ global.owner = [
 global.botNumberCode = '' //Ejemplo: +59309090909
 global.confirmCode = ''
 
-global.suittag = ['5214531287294']
+global.suittag = ['595992809980']
 global.mods = []
 global.prems = []
 
@@ -41,11 +41,11 @@ global.cb = 'LobitoBot'
 
 //Las Versiones Y Entre Otros
 global.vs = 'V2'
-global.library = 'Baileys'
+global.library = 'Lobito'
 global.baileys = '@whiskeysockets/baileys'
 global.lenguaje = 'Español'
 global.menudi = ['⛶','❏','⫹⫺']
-global.dev = '¿Azami ~ Zam?'
+global.dev = '¿Lobito ~ MD?'
 global.devnum = '+591 62714296'
 
 let file = fileURLToPath(import.meta.url)
