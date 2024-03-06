@@ -1,4 +1,4 @@
-## Lobito : Bot - MD ✨
+Lobito : Bot - MD ✨
 - #### `🚩 Clonar El Repositorio`
  Clonar CuriosityBot [Aqui](https://github.com/AzamiJs/CuriosityBot-MD/fork)
 
