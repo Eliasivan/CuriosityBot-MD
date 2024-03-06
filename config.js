@@ -10,8 +10,8 @@ import chalk from 'chalk'
 import { fileURLToPath, pathToFileURL } from 'url'
 
 global.owner = [
-['524531287294', 'CuriosityBot-MD 🍧', true], 
-['595992809980', 'Owner 🍧', true], 
+['595972157130', 'CuriosityBot-MD 🍧', true], 
+['593939005387', 'Owner 🍧', true], 
 ['5217294888993'], 
 ['00'], 
 ['5214531287294'], 
@@ -33,11 +33,11 @@ global.prems = []
 
 //Aqui encuentras los nombres del bot
 global.packname = ''
-global.author = 'CuriosityBot'
-global.wm = '© CuriosityBot-MD'
-global.wm2 = 'Curiosity : Bot'
-global.azami = 'Azami'
-global.cb = 'CuriosityBot'
+global.author = 'LobitoBot'
+global.wm = '© LobitoBot-MD'
+global.wm2 = 'Lobito : Bot'
+global.azami = 'Lobito'
+global.cb = 'LobitoBot'
 
 //Las Versiones Y Entre Otros
 global.vs = 'V2'
