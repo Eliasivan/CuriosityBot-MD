@@ -10,11 +10,11 @@ import chalk from 'chalk'
 import { fileURLToPath, pathToFileURL } from 'url'
 
 global.owner = [
-['595972157130', 'Lobito-MD 🍧',true], 
+['595972157130', 'Lobito-MD 🍧', true], 
 ['595992809980', 'Ivan-Creador 🍧', true], 
-['50558124470'], '🍧Ender🍧',true], 
-['593939005387'], 'Jostin🍧,true], 
-['5491165601378'], '🍧Enzo🍧,true], 
+['50558124470'], '🍧Ender🍧', true], 
+['593939005387'], 'Jostin🍧, true], 
+['5491165601378'], '🍧Enzo🍧, true], 
 ['5492964650915'], 
 ['573013482814'], 
 ['5492266613038'], 
