@@ -12,7 +12,7 @@ let biobot = biografiaBot.status?.toString() || 'Sin Biografía'
 
 await conn.sendContactArray(m.chat, [
 [devnum, `${await conn.getName(''+'@s.whatsapp.net')}`, `🍭 Creador`, dev, email, `🇵🇾 Paraguay`, ``, bio],
-[`${conn.user.jid.split('@')[0]}`, `${await conn.getName(conn.user.jid)}`, `🍧 LobitoBot-MD`, `📵 No Hacer Spam`, , `🇵🇾 Paraguay`,email `LobitoBot-MD`, biobot]
+[`${conn.user.jid.split('@')[0]}`, `${await conn.getName(conn.user.jid)}`, `🍧 LobitoBot-MD`, `📵 No Hacer Spam`, , `🇵🇾 Paraguay`email, `LobitoBot-MD`, biobot]
 ], m)
   
 }
