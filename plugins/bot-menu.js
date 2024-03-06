@@ -1,4 +1,4 @@
-//CÓDIGO ADAPTADO POR https://github.com/GataNina-Li | @gata_dios & https://github.com/AzamiJs | @Azami
+//CÓDIGO ADAPTADO POR  |  | 
 
 import fs from 'fs'
 import { parsePhoneNumber } from 'libphonenumber-js'
